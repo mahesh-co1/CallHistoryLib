@@ -3,7 +3,7 @@
 ## Install
 
 ```INSTALLATION
-npm install --save calllib bootstrap reactstrap
+npm install --save callhistorylib bootstrap reactstrap
 ```
 
 ## Usage
